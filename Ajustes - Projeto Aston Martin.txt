@@ -1,0 +1,8 @@
+Ajustes - Projeto Aston Martin
+
+Header:
+- fixar posição dos botões do menu e melhorar padding e border do btn comprar
+-centralizar a barra header no desktop e no mobile 
+
+body>container:
+- refinar 
